@@ -6,7 +6,7 @@ Este repositório contém as atividades desenvolvidas pelo Grupo 2 do curso Enge
 
 - Samir Ramos
 - Alex Garcia
-- Daniel Mourão
+- Daniel Mourão Martins
 - Anderson de Albuquerque
 - Daniel
 
