@@ -4,10 +4,11 @@ Este repositório contém as atividades desenvolvidas pelo Grupo 2 do curso Enge
 
 ## Membros
 
-- Samir
-- (Alex)
-- Mourão
-- Anderson
+- Samir Ramos
+- Alex Garcia
+- Daniel Mourão
+- Anderson de Albuquerque
+- Daniel
 
 ## Descrição da Atividade
 
@@ -23,4 +24,6 @@ Cada demanda identificada pelos membros do grupos para a solução do problema d
 
 ## Desenvolvimento da Atividade 
 
--- INSIRA AQUI A DESCRIÇÃO DO PROBLEMA ABORDADO PELO GRUPO --
+O grupo está envolvido em dois grandes projetos envolvendo a detecção e o tratamento de ataques cibernéticos.
+Os sistemas a serem desenvolvidos vão acessar uma base de dados em comum, enquadrando o trabalho no caso de uso 3, entretanto nesta semana queremos priorizar a modelagem.
+Vamos partir de uma ontologia baseada em UFO criada na dissertação de mestrado de Marta Faria, do IME. O objetivo é acrescentar a esta ontologia aspectos de ataques ainda não modelados.
